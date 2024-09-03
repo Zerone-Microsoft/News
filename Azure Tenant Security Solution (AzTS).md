@@ -7,7 +7,7 @@
 
 由 AzSK 團隊提供的 **Azure Tenant Security Solution (AzTS)** 是一個開放原始碼專案，旨在幫助企業在多訂閱和資源配置中獲得更高的可見性。AzTS 是 DevOps Kit 的邏輯進展，利用當前 Azure 平台中的原生安全功能，實現雲安全合規解決方案的實施。其功能類似於以中央掃描模式運行的 AzSK 持續保證 (Continuous Assurance)。
 
-!Azure Tenant Security Solution
+!![image](https://github.com/user-attachments/assets/ce40ba28-75a4-4519-b11a-84741a663b26)
 
 ## AzTS 的建立有以下幾個明確目標：
 
